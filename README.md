@@ -1,3 +1,3 @@
-# jchou-web-v5
+# jchou-web-finale
 
-Fifth exploration of my revamped personal website built from scratch with React, GraphQL, GraphCMS
+The finale of my website building journey. jchou-web-finale :O
