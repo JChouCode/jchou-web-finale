@@ -247,8 +247,18 @@ svg {
 }
 
 @media only screen and (max-width: 1080px) {
+
   body {
     font-size: 12px;
+  }
+
+  .index {
+    overflow-x: hidden;
+  }
+
+  .MOTD {
+    width: 48%;
+    top: 5%;
   }
 
   .contact {

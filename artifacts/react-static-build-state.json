@@ -15,29 +15,29 @@
   "entry": "index.js",
   "plugins": [
     [
-      "/Users/jeffreychou/Desktop/jchou-web-v4/node_modules/react-static-plugin-source-filesystem/node.api.js",
+      "/Users/jeffreychou/Desktop/jchou-web-finale/node_modules/react-static-plugin-source-filesystem/node.api.js",
       {
-        "location": "/Users/jeffreychou/Desktop/jchou-web-v4/src/pages"
+        "location": "/Users/jeffreychou/Desktop/jchou-web-finale/src/pages"
       }
     ],
-    "/Users/jeffreychou/Desktop/jchou-web-v4/node_modules/react-static-plugin-reach-router/browser.api.js",
-    "/Users/jeffreychou/Desktop/jchou-web-v4/node_modules/react-static-plugin-sitemap/dist/node.api.js",
-    "/Users/jeffreychou/Desktop/jchou-web-v4"
+    "/Users/jeffreychou/Desktop/jchou-web-finale/node_modules/react-static-plugin-reach-router/browser.api.js",
+    "/Users/jeffreychou/Desktop/jchou-web-finale/node_modules/react-static-plugin-sitemap/dist/node.api.js",
+    "/Users/jeffreychou/Desktop/jchou-web-finale"
   ],
   "paths": {
-    "ROOT": "/Users/jeffreychou/Desktop/jchou-web-v4",
-    "SRC": "/Users/jeffreychou/Desktop/jchou-web-v4/src",
-    "DIST": "/Users/jeffreychou/Desktop/jchou-web-v4/dist",
-    "ASSETS": "/Users/jeffreychou/Desktop/jchou-web-v4/dist",
-    "PLUGINS": "/Users/jeffreychou/Desktop/jchou-web-v4/plugins",
-    "TEMP": "/Users/jeffreychou/Desktop/jchou-web-v4/tmp",
-    "ARTIFACTS": "/Users/jeffreychou/Desktop/jchou-web-v4/artifacts",
-    "PUBLIC": "/Users/jeffreychou/Desktop/jchou-web-v4/public",
-    "NODE_MODULES": "/Users/jeffreychou/Desktop/jchou-web-v4/node_modules",
-    "EXCLUDE_MODULES": "/Users/jeffreychou/Desktop/jchou-web-v4/node_modules",
-    "PACKAGE": "/Users/jeffreychou/Desktop/jchou-web-v4/package.json",
-    "HTML_TEMPLATE": "/Users/jeffreychou/Desktop/jchou-web-v4/dist/index.html",
-    "STATIC_DATA": "/Users/jeffreychou/Desktop/jchou-web-v4/dist/staticData"
+    "ROOT": "/Users/jeffreychou/Desktop/jchou-web-finale",
+    "SRC": "/Users/jeffreychou/Desktop/jchou-web-finale/src",
+    "DIST": "/Users/jeffreychou/Desktop/jchou-web-finale/dist",
+    "ASSETS": "/Users/jeffreychou/Desktop/jchou-web-finale/dist",
+    "PLUGINS": "/Users/jeffreychou/Desktop/jchou-web-finale/plugins",
+    "TEMP": "/Users/jeffreychou/Desktop/jchou-web-finale/tmp",
+    "ARTIFACTS": "/Users/jeffreychou/Desktop/jchou-web-finale/artifacts",
+    "PUBLIC": "/Users/jeffreychou/Desktop/jchou-web-finale/public",
+    "NODE_MODULES": "/Users/jeffreychou/Desktop/jchou-web-finale/node_modules",
+    "EXCLUDE_MODULES": "/Users/jeffreychou/Desktop/jchou-web-finale/node_modules",
+    "PACKAGE": "/Users/jeffreychou/Desktop/jchou-web-finale/package.json",
+    "HTML_TEMPLATE": "/Users/jeffreychou/Desktop/jchou-web-finale/dist/index.html",
+    "STATIC_DATA": "/Users/jeffreychou/Desktop/jchou-web-finale/dist/staticData"
   },
   "siteRoot": "",
   "basePath": "",
