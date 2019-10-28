@@ -16,10 +16,17 @@ function App() {
       <Helmet>
         <meta charSet="utf-8"></meta>
         <title>Chou</title>
+        <link rel="apple-touch-icon" sizes="180x180" href={require("./assets/apple-touch-icon.png")}/>
+        <link rel="icon" type="image/png" sizes="32x32" href={require("./assets/favicon-32x32.png")}/>
+        <link rel="icon" type="image/png" sizes="16x16" href={require("./assets/favicon-16x16.png")}/>
+        <link rel="manifest" href={require("./assets/site.webmanifest")}/>
+        <link rel="mask-icon" href={require("./assets/safari-pinned-tab.svg")} color="#cf8000"/>
+        <meta name="msapplication-TileColor" content="#ffc40d"/>
+        <meta name="theme-color" content="#ffde7d"/>
         {/* <link rel="icon" type="image/png" href="https://media.graphcms.com/apgl2eLxQDmUeQO4yjO7"></link> */}
-        < meta name="description" content="Hi, I’m a student at Cornell University studying Computer Science and Physics.
+        < meta name="description" content="Student at Cornell University studying Computer Science and Physics.
           My interests include software / fullstack dev, and data science.
-        Built with React & GraphQL"></meta>
+        Built from scratch with React :O."></meta>
       </Helmet>
     <div className="content">
       <React.Suspense fallback={<div></div>}>

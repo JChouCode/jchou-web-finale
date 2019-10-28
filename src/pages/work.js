@@ -12,7 +12,6 @@ export default () => (
       </Link>
       <h1>Work</h1>
       <div className="content-wrapper">
-        <img id="tech" src={require("./../assets/technology.png")}></img>
         <ul id="experience">
           <li>
             <span>IoTeX: Software Engineer Intern</span>
